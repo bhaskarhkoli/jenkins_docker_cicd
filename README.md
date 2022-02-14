@@ -1,1 +1,1 @@
-# jenkins_docker_cicd
+# jenkins-docker-example
